@@ -7,8 +7,8 @@
 
 
 ## Hobby
-**In my free time, I enjoy watching YouTube Shorts, which helps me stay entertained and discover new trends.**
->"where every second counts and every moment is a new discovery."
+**In my free time, I like reading books because it helps me learn new things and relax.**
+>"IF YOU DON'T LIKE TO READ, YOU HAVEN'T FOUND THE RIGHT BOOK."
 
 
 
