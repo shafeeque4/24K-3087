@@ -1,4 +1,4 @@
-   # INTRODUCTION
+## INTRODUCTION
 **Hi! I'm Shafeeque Ahmed. I'm currently studying BS Software Engineering at FAST University.** 
 - *I choose Software Engineering because it combines creativity with analytical thinking.*
 
