@@ -1,0 +1,26 @@
+Q: Implement an algorithm for making a simple calculator with all the operators (+,-,*,/,%)
+
+Ask the user to enter Num1.
+Ask the user to enter Num2.
+Ask the user to enter the operator(+,-,*,/,%).
+If the operator is "+" then
+    Set Ans=Num1+Num2
+    Display the value of "Ans".
+Else if the operator is "-" then
+    Set Ans=Num1-Num2
+    Display the value of "Ans".
+Else if the operator is "*" then
+    Set Ans=Num1*Num2
+    Display the value of "Ans".
+Else if the operator is "/" then
+     If Num2 is not 0
+         Set Ans=Num1/Num2
+         Display the value of "Ans".
+     Else
+         Display "Cannot divided by zero" 
+Else if the operator is "%" then
+     Set Ans=Num1%Num2
+     Display the value of "Ans".
+Else
+     Display "Invalid operator".
+
