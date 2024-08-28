@@ -1,0 +1,16 @@
+Q: Create a small calculator which only does ‘+’ or ‘-‘Operations. (Hint: Take three variable inputs with
+one being used for the operator)
+
+START 
+INPUT Num1
+INPUT Num2
+INPUT Operator(+ or -)
+IF Operator=+ THEN
+   SET Ans=Num1+Num2
+   PRINT "Ans"
+ELSE IF Operator=- THEN
+   SET Ans=Num1-Num2
+   PRINT "Ans"
+ELSE 
+   PRINT "Invalid Operator"
+END
