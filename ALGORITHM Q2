@@ -1,0 +1,29 @@
+Q: Implement an algorithm where the user enters a number, and an appropriate month is displayed.
+
+Ask the user to enter a number.
+If number = 1 then
+   Display "January"
+Else if number = 2 then
+   Display "February"
+Else if number = 3 then
+   Display "March"
+Else if number = 4 then
+   Display "April"
+Else if number = 5 then
+   Display "May"
+Else if number = 6 then
+   Display "June"
+Else if number = 7 then
+   Display "July"
+Else if number = 8 then
+   Display "August"
+Else if number = 9 then
+   Display "September"
+Else if number = 10 then
+   Display "October"
+Else if number = 11 then
+   Display "November"
+Else if number = 12 then
+   Display "December"
+Else
+   Display "Invalid Number"
