@@ -1,0 +1,9 @@
+Q: Take three variables as input and add them without using the + operator (Use your head for this)
+
+START 
+INPUT Num1
+INPUT Num2
+INPUT Num3
+SET Ans=-(-Num1-Num2-Num3)
+PRINT "Ans"
+END
