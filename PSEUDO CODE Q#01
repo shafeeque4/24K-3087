@@ -1,9 +1,13 @@
+Q: Find the maximum number in any of three variables.
+
 START 
-INPUT A,B,C
-IF A>=B and A>=C THEN
-   DISPLAY A
-ELSE IF B>=A and B>=C THEN
-   DISPLAY B
+INPUT Num1
+INPUT Num2
+INPUT Num3
+IF Num1>Num2 and Num1>Num3 THEN
+   DISPLAY "Num1 is largest"
+ELSE IF Num2>Num1 and Num2>Num3 THEN
+   DISPLAY "Num2 is largest"
 ELSE
-   DISPLAY C
+   DISPLAY "Num3 is largest"
 END
